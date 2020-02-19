@@ -5,6 +5,11 @@ Design a REST API endpoint that provides auto-complete suggestions from a list o
 ## Getting Started
 This code will be deployed in heroku, just run the following URL in the REST client of yor choice
 
+The main files to read are:
+* api_main.py
+* backend.py
+
+
 ### Prerequisites
 
 Root url: (https://code-challange-fs-dario.herokuapp.com/)
