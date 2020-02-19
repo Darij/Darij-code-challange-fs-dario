@@ -80,6 +80,7 @@ Due to time constraints, a JSON file was created with random data.
 
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/) - The web framework used
 * [Python3.5]
+* [JsonGenerator](https://www.json-generator.com/)
 
 
 ## Authors
