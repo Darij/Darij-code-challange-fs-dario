@@ -1,0 +1,413 @@
+[
+  {
+    "_id": "5e4c448b2e1548fa5a3734ec",
+    "index": 0,
+    "guid": "a587a1c5-f320-4053-87f2-530e1060d071",
+    "min_rate": "$940.08",
+    "age": 31,
+    "eyeColor": "green",
+    "first_name": "Heather",
+    "last_name": "Oconnor",
+    "contact_email": "heatheroconnor@tetak.com",
+    "verified_skills": [
+      "lifecycle_marketing",
+      "user_referral_programs",
+      "facebook_organic",
+      "mailchimp",
+      "facebook_advertising",
+      "user_referral_programs",
+      "podcast_advertising"
+    ],
+    "score": 0
+  },
+  {
+    "_id": "5e4c448b5742b573f5c1d678",
+    "index": 1,
+    "guid": "48bc5b35-2d72-47ad-8f14-89052daa70da",
+    "min_rate": "$486.40",
+    "age": 38,
+    "eyeColor": "brown",
+    "first_name": "Dodson",
+    "last_name": "Hensley",
+    "contact_email": "dodsonhensley@tetak.com",
+    "verified_skills": [
+      "mailchimp",
+      "facebook_advertising",
+      "podcast_advertising",
+      "lifecycle_marketing",
+      "go_to_market_strategy",
+      "conversion_rate_optimization"
+    ],
+    "score": 0
+  },
+  {
+    "_id": "5e4c448be7272c3807e2e2c2",
+    "index": 2,
+    "guid": "9421bdc7-4528-4a67-bfcd-6b783790e503",
+    "min_rate": "$176.79",
+    "age": 32,
+    "eyeColor": "blue",
+    "first_name": "Valenzuela",
+    "last_name": "Sullivan",
+    "contact_email": "valenzuelasullivan@tetak.com",
+    "verified_skills": [
+      "facebook_advertising",
+      "facebook_organic",
+      "lifecycle_marketing",
+      "mailchimp",
+      "facebook_organic",
+      "podcast_advertising"
+    ],
+    "score": 0
+  },
+  {
+    "_id": "5e4c448bb085ce0c9ef0c5c4",
+    "index": 3,
+    "guid": "d7877ce8-1a9e-470b-a286-832f071d11a6",
+    "min_rate": "$575.27",
+    "age": 22,
+    "eyeColor": "blue",
+    "first_name": "Glenna",
+    "last_name": "Dale",
+    "contact_email": "glennadale@tetak.com",
+    "verified_skills": [
+      "go_to_market_strategy",
+      "facebook_organic",
+      "mailchimp",
+      "linkedin_advertising",
+      "conversion_rate_optimization"
+    ],
+    "score": 0
+  },
+  {
+    "_id": "5e4c448bd8aeaecf7e5f1775",
+    "index": 4,
+    "guid": "3da149ce-e33f-4d1c-8303-626d88bcbf3c",
+    "min_rate": "$743.76",
+    "age": 30,
+    "eyeColor": "green",
+    "first_name": "Patton",
+    "last_name": "Donaldson",
+    "contact_email": "pattondonaldson@tetak.com",
+    "verified_skills": [
+      "quantitative_research",
+      "user_referral_programs",
+      "facebook_advertising",
+      "lifecycle_marketing",
+      "customer_acquisition_strategy"
+    ],
+    "score": 0
+  },
+  {
+    "_id": "5e4c448b330413c228062dc3",
+    "index": 5,
+    "guid": "e6552668-52df-4989-b3fa-c1352d01d035",
+    "min_rate": "$547.32",
+    "age": 36,
+    "eyeColor": "green",
+    "first_name": "Coleen",
+    "last_name": "Myers",
+    "contact_email": "coleenmyers@tetak.com",
+    "verified_skills": [
+      "conversion_rate_optimization",
+      "facebook_marketing",
+      "facebook_advertising",
+      "go_to_market_strategy"
+    ],
+    "score": 0
+  },
+  {
+    "_id": "5e4c448b661a5deabbac0c89",
+    "index": 6,
+    "guid": "74cb9ce8-d543-4e19-9986-2892862cbe0a",
+    "min_rate": "$605.32",
+    "age": 40,
+    "eyeColor": "brown",
+    "first_name": "Blevins",
+    "last_name": "Hill",
+    "contact_email": "blevinshill@tetak.com",
+    "verified_skills": [
+      "conversion_rate_optimization",
+      "podcast_advertising",
+      "facebook_advertising",
+      "user_referral_programs",
+      "facebook_marketing",
+      "quantitative_research"
+    ],
+    "score": 0
+  },
+  {
+    "_id": "5e4c448b0c369b2d724ee752",
+    "index": 7,
+    "guid": "c34b40ce-00d2-4d1d-8a75-d480a2d3b773",
+    "min_rate": "$968.62",
+    "age": 39,
+    "eyeColor": "green",
+    "first_name": "Dale",
+    "last_name": "Ramirez",
+    "contact_email": "daleramirez@tetak.com",
+    "verified_skills": [
+      "customer_acquisition_strategy",
+      "linkedin_advertising",
+      "go_to_market_strategy",
+      "facebook_marketing",
+      "go_to_market_strategy",
+      "facebook_organic"
+    ],
+    "score": 0
+  },
+  {
+    "_id": "5e4c448b56b756e9ec6cf412",
+    "index": 8,
+    "guid": "2dd5ce9f-3846-4cd7-9ec4-2a7d97d82ac4",
+    "min_rate": "$138.73",
+    "age": 29,
+    "eyeColor": "blue",
+    "first_name": "Socorro",
+    "last_name": "Levine",
+    "contact_email": "socorrolevine@tetak.com",
+    "verified_skills": [
+      "conversion_rate_optimization",
+      "go_to_market_strategy",
+      "mailchimp",
+      "podcast_advertising",
+      "facebook_organic",
+      "facebook_advertising"
+    ],
+    "score": 0
+  },
+  {
+    "_id": "5e4c448b8860fc443c6bec03",
+    "index": 9,
+    "guid": "52d4ab72-f21b-4020-8136-67e7aa1cdde3",
+    "min_rate": "$330.87",
+    "age": 34,
+    "eyeColor": "blue",
+    "first_name": "Cook",
+    "last_name": "Benton",
+    "contact_email": "cookbenton@tetak.com",
+    "verified_skills": [
+      "customer_acquisition_strategy",
+      "lifecycle_marketing",
+      "facebook_advertising",
+      "podcast_advertising",
+      "analytics_infrastructure",
+      "facebook_organic"
+    ],
+    "score": 0
+  },
+  {
+    "_id": "5e4c448b5fbcac97f613fadc",
+    "index": 10,
+    "guid": "107b0369-f69e-45c0-88b1-daacca896eef",
+    "min_rate": "$770.50",
+    "age": 38,
+    "eyeColor": "blue",
+    "first_name": "Brigitte",
+    "last_name": "Fields",
+    "contact_email": "brigittefields@tetak.com",
+    "verified_skills": [
+      "lifecycle_marketing",
+      "linkedin_advertising",
+      "podcast_advertising",
+      "facebook_advertising",
+      "lifecycle_marketing"
+    ],
+    "score": 0
+  },
+  {
+    "_id": "5e4c448b1569404b66acb1db",
+    "index": 11,
+    "guid": "20658c38-66f3-4379-968b-5e11ce0b0c87",
+    "min_rate": "$616.44",
+    "age": 39,
+    "eyeColor": "blue",
+    "first_name": "Maria",
+    "last_name": "Powers",
+    "contact_email": "mariapowers@tetak.com",
+    "verified_skills": [
+      "conversion_rate_optimization",
+      "go_to_market_strategy",
+      "podcast_advertising",
+      "facebook_advertising",
+      "facebook_organic",
+      "customer_acquisition_strategy"
+    ],
+    "score": 0
+  },
+  {
+    "_id": "5e4c448b672bb16a069bafe7",
+    "index": 12,
+    "guid": "206d520d-1f22-4c25-969d-c32ec59b89a5",
+    "min_rate": "$144.47",
+    "age": 33,
+    "eyeColor": "green",
+    "first_name": "Lawson",
+    "last_name": "Stuart",
+    "contact_email": "lawsonstuart@tetak.com",
+    "verified_skills": [
+      "conversion_rate_optimization",
+      "analytics_infrastructure",
+      "quantitative_research",
+      "podcast_advertising",
+      "facebook_marketing",
+      "go_to_market_strategy"
+    ],
+    "score": 0
+  },
+  {
+    "_id": "5e4c448b28f4a62e3752e3e1",
+    "index": 13,
+    "guid": "5bfb9d7d-9df2-45a0-89b5-02d904fcb824",
+    "min_rate": "$805.42",
+    "age": 32,
+    "eyeColor": "blue",
+    "first_name": "Pauline",
+    "last_name": "Saunders",
+    "contact_email": "paulinesaunders@tetak.com",
+    "verified_skills": [
+      "conversion_rate_optimization",
+      "facebook_marketing",
+      "mailchimp",
+      "customer_acquisition_strategy"
+    ],
+    "score": 0
+  },
+  {
+    "_id": "5e4c448b6875f29549bdb088",
+    "index": 14,
+    "guid": "0e5cfd92-c1e8-4b92-9233-39c4b0bcb337",
+    "min_rate": "$620.89",
+    "age": 33,
+    "eyeColor": "green",
+    "first_name": "Brandie",
+    "last_name": "Cooke",
+    "contact_email": "brandiecooke@tetak.com",
+    "verified_skills": [
+      "conversion_rate_optimization",
+      "analytics_infrastructure",
+      "podcast_advertising",
+      "customer_acquisition_strategy",
+      "linkedin_advertising"
+    ],
+    "score": 0
+  },
+  {
+    "_id": "5e4c448b740d4d0127df6160",
+    "index": 15,
+    "guid": "34003bdf-a75c-4c1a-abbc-d3f75b011d7e",
+    "min_rate": "$814.62",
+    "age": 36,
+    "eyeColor": "green",
+    "first_name": "Janis",
+    "last_name": "Mcbride",
+    "contact_email": "janismcbride@tetak.com",
+    "verified_skills": [
+      "analytics_infrastructure",
+      "conversion_rate_optimization",
+      "user_referral_programs",
+      "podcast_advertising"
+    ],
+    "score": 0
+  },
+  {
+    "_id": "5e4c448bd195c4fb8284f4e5",
+    "index": 16,
+    "guid": "a70696c0-7db7-437c-9182-3c44e06eec48",
+    "min_rate": "$922.00",
+    "age": 28,
+    "eyeColor": "brown",
+    "first_name": "Saundra",
+    "last_name": "Church",
+    "contact_email": "saundrachurch@tetak.com",
+    "verified_skills": [
+      "facebook_advertising",
+      "podcast_advertising",
+      "facebook_organic",
+      "facebook_marketing",
+      "user_referral_programs"
+    ],
+    "score": 0
+  },
+  {
+    "_id": "5e4c448b9d3a963c608be3bf",
+    "index": 17,
+    "guid": "1668e7df-ad8f-447e-b60c-ce0165d1364e",
+    "min_rate": "$908.29",
+    "age": 34,
+    "eyeColor": "blue",
+    "first_name": "Beach",
+    "last_name": "Grimes",
+    "contact_email": "beachgrimes@tetak.com",
+    "verified_skills": [
+      "facebook_organic",
+      "user_referral_programs",
+      "facebook_marketing",
+      "conversion_rate_optimization",
+      "customer_acquisition_strategy",
+      "podcast_advertising",
+      "go_to_market_strategy"
+    ],
+    "score": 0
+  },
+  {
+    "_id": "5e4c448b5956f127fb596b2e",
+    "index": 18,
+    "guid": "d8a3a470-ea2e-4e57-ba7b-a01640117188",
+    "min_rate": "$983.09",
+    "age": 25,
+    "eyeColor": "brown",
+    "first_name": "Acevedo",
+    "last_name": "Carson",
+    "contact_email": "acevedocarson@tetak.com",
+    "verified_skills": [
+      "analytics_infrastructure",
+      "facebook_organic",
+      "conversion_rate_optimization",
+      "facebook_marketing",
+      "linkedin_advertising",
+      "podcast_advertising"
+    ],
+    "score": 0
+  },
+  {
+    "_id": "5e4c448b3ab2fca269e34753",
+    "index": 19,
+    "guid": "1ec0a2db-8fb7-4fa2-82cc-16d98ebe145e",
+    "min_rate": "$165.71",
+    "age": 28,
+    "eyeColor": "brown",
+    "first_name": "Esther",
+    "last_name": "Floyd",
+    "contact_email": "estherfloyd@tetak.com",
+    "verified_skills": [
+      "mailchimp",
+      "go_to_market_strategy",
+      "conversion_rate_optimization",
+      "customer_acquisition_strategy",
+      "podcast_advertising",
+      "lifecycle_marketing"
+    ],
+    "score": 0
+  },
+  {
+    "_id": "5e4c448ba2b4328ce14b8695",
+    "index": 20,
+    "guid": "ef61d130-a101-49af-99ff-38335afb23e0",
+    "min_rate": "$462.55",
+    "age": 21,
+    "eyeColor": "brown",
+    "first_name": "Wilson",
+    "last_name": "Harding",
+    "contact_email": "wilsonharding@tetak.com",
+    "verified_skills": [
+      "customer_acquisition_strategy",
+      "mailchimp",
+      "podcast_advertising",
+      "facebook_advertising",
+      "facebook_organic",
+      "facebook_marketing"
+    ],
+    "score": 0
+  }
+]
