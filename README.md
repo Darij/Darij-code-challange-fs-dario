@@ -12,13 +12,13 @@ The main files to read are:
 
 ### Prerequisites
 
-Root url: (https://code-challange-fs-dario.herokuapp.com/)
+Root url: (https://code-challenge-fs-dario.herokuapp.com/)
 
 Url required by challange: GET /suggestions?q={string}&rate_minimum={int}&verified_skills={string}
 
 ### Example
-
-https://code-challange-fs-dario.herokuapp.com/suggestions?q=Bran&rate_minimum=620&verified_skills=facebook_advertising
+Copy and Paste the address below in the following page in mode GET (https://reqbin.com/)
+https://code-challenge-fs-dario.herokuapp.com/suggestions?q=Bran&rate_minimum=620&verified_skills=facebook_advertising
 
 ```
 Result exmaple
