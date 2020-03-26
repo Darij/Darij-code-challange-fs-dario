@@ -73,7 +73,6 @@ Due to time constraints, a JSON file was created with random data.
 ## Known Issues
  Due to time constraints the following feature were not implemented:
  * Query with any known parameter [Age, Eye-color, Email, etc.] in a specified filter like 'min_rate' or 'verified_skills'
- * Accurately calculate the suggestion score
  * Autocompletion: The challange didnt specify if UI with javascript was required or to use data lists from HTML5 
 
 ## Built With
