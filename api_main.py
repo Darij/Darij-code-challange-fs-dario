@@ -10,10 +10,10 @@ def root():
 
 @app.route('/suggestions', methods=['GET'])
 def suggestions():
-    suggester = Suggester()
     q = request.args.get('q', None)
     min_rate = request.args.get('rate_minimum', None)
     skill = request.args.get('verified_skills', None)
-    suggester.search(query=q, rate=min_rate, skill=skill)
+    suggester = Suggester(q, min_rate, skill)
+    suggester.search()
     result = jsonify(suggester.matches)
     return result
